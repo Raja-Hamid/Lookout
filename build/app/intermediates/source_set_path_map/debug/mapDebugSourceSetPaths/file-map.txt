@@ -1,0 +1,27 @@
+com.example.lookout.app-core-runtime-2.2.0-0 C:\Users\rajah\.gradle\caches\transforms-4\035ccf45d6b36e1086b20a378585cb95\transformed\core-runtime-2.2.0\res
+com.example.lookout.app-jetified-core-ktx-1.13.1-1 C:\Users\rajah\.gradle\caches\transforms-4\0b758e5f0e57860d7789887c76350fde\transformed\jetified-core-ktx-1.13.1\res
+com.example.lookout.app-lifecycle-livedata-core-2.7.0-2 C:\Users\rajah\.gradle\caches\transforms-4\182e0a146fde6be175d7e29eadcf0cde\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.lookout.app-core-1.13.1-3 C:\Users\rajah\.gradle\caches\transforms-4\3a979c1aa16a7f887b9ea7d1c0ee57b8\transformed\core-1.13.1\res
+com.example.lookout.app-jetified-profileinstaller-1.3.1-4 C:\Users\rajah\.gradle\caches\transforms-4\66c8a1f3fafd256b1722b29be707c6b7\transformed\jetified-profileinstaller-1.3.1\res
+com.example.lookout.app-jetified-tracing-1.2.0-5 C:\Users\rajah\.gradle\caches\transforms-4\8fa9225e85eb13feebbc243f899d83ae\transformed\jetified-tracing-1.2.0\res
+com.example.lookout.app-fragment-1.7.1-6 C:\Users\rajah\.gradle\caches\transforms-4\9aaeb2c92cbc15e057ab5eb55d0d5fb4\transformed\fragment-1.7.1\res
+com.example.lookout.app-jetified-lifecycle-livedata-core-ktx-2.7.0-7 C:\Users\rajah\.gradle\caches\transforms-4\aaa7a86da0d2286008d7d54a69f1b67a\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.lookout.app-lifecycle-viewmodel-2.7.0-8 C:\Users\rajah\.gradle\caches\transforms-4\b3618f0a81cfdf8adf2cb57cc1968094\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.lookout.app-jetified-core-1.0.0-9 C:\Users\rajah\.gradle\caches\transforms-4\b4fbe225949fc25e5439f534a88ce233\transformed\jetified-core-1.0.0\res
+com.example.lookout.app-jetified-lifecycle-process-2.7.0-10 C:\Users\rajah\.gradle\caches\transforms-4\c14a3d0ba135f4a9e3146fd0ce133bfe\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.lookout.app-jetified-startup-runtime-1.1.1-11 C:\Users\rajah\.gradle\caches\transforms-4\c458ea8c456a1f61d67b26445a68cdbd\transformed\jetified-startup-runtime-1.1.1\res
+com.example.lookout.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-12 C:\Users\rajah\.gradle\caches\transforms-4\ca02091c2683b55fa8b8ac75af3f5fea\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.lookout.app-jetified-savedstate-1.2.1-13 C:\Users\rajah\.gradle\caches\transforms-4\cd0add9e9502bdc7382b9062f307b18b\transformed\jetified-savedstate-1.2.1\res
+com.example.lookout.app-lifecycle-runtime-2.7.0-14 C:\Users\rajah\.gradle\caches\transforms-4\d2bbb2332c66114fc6f5e70d476bdf4e\transformed\lifecycle-runtime-2.7.0\res
+com.example.lookout.app-jetified-activity-1.8.1-15 C:\Users\rajah\.gradle\caches\transforms-4\e465a9d218fdab9c47e2d173ff4110bd\transformed\jetified-activity-1.8.1\res
+com.example.lookout.app-lifecycle-livedata-2.7.0-16 C:\Users\rajah\.gradle\caches\transforms-4\ecb71fa77468b5926a34545aec705467\transformed\lifecycle-livedata-2.7.0\res
+com.example.lookout.app-jetified-window-1.2.0-17 C:\Users\rajah\.gradle\caches\transforms-4\f569497919a000bc79d1b5488a37a704\transformed\jetified-window-1.2.0\res
+com.example.lookout.app-jetified-window-java-1.2.0-18 C:\Users\rajah\.gradle\caches\transforms-4\fe17828214a09d186d9cabe19c3e949c\transformed\jetified-window-java-1.2.0\res
+com.example.lookout.app-jetified-annotation-experimental-1.4.0-19 C:\Users\rajah\.gradle\caches\transforms-4\fe76fdf78d2bf5d4ae86176a5d4f7a44\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.lookout.app-debug-20 D:\Flutter Projects\lookout\android\app\src\debug\res
+com.example.lookout.app-main-21 D:\Flutter Projects\lookout\android\app\src\main\res
+com.example.lookout.app-pngs-22 D:\Flutter Projects\lookout\build\app\generated\res\pngs\debug
+com.example.lookout.app-resValues-23 D:\Flutter Projects\lookout\build\app\generated\res\resValues\debug
+com.example.lookout.app-packageDebugResources-24 D:\Flutter Projects\lookout\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.lookout.app-packageDebugResources-25 D:\Flutter Projects\lookout\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.lookout.app-debug-26 D:\Flutter Projects\lookout\build\app\intermediates\merged_res\debug\mergeDebugResources
